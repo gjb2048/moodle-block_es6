@@ -25,3 +25,6 @@
 $string['pluginname'] = 'ES6';
 $string['es6:addinstance'] = 'Add a new ES6 block';
 $string['listing'] = 'List of students';
+
+// AJAX Example.
+$string['ajaxexamplebutton'] = 'Engage!';
